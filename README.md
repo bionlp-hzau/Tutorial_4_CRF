@@ -11,7 +11,7 @@ Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.5543&rep=rep1
 
 
 Step 2. Follow the experiment tutorial. CRF实验.pdf
-The tutoial is offered by @KaiyinZhou.
+The tutorial is offered by @KaiyinZhou.
 
 
 
