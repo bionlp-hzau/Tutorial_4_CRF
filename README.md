@@ -18,3 +18,7 @@ The tutorial is offered by @KaiyinZhou.
 
 Aknowledgement:
 Thank Pierre Zweigenbaum from LIMSI offered tutorial of WAPITI, a CRF tool, in 2017 to HZAU-BioNLP lab here.
+
+
+Patterns link:
+https://wapiti.limsi.fr/manual.html#patterns
