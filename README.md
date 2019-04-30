@@ -17,11 +17,13 @@ Step 2. Follow the experiment tutorial. CRF实验.pdf
 The tutorial is offered by @KaiyinZhou.
 
 
+Step 3. Read the pad.pdf for detail about the patten design.
 
+Patterns link:
+https://wapiti.limsi.fr/manual.html#patterns
 
 Aknowledgement:
 Thank Pierre Zweigenbaum from LIMSI offered tutorial of WAPITI, a CRF tool, in 2017 to HZAU-BioNLP lab here.
 
 
-Patterns link:
-https://wapiti.limsi.fr/manual.html#patterns
+
