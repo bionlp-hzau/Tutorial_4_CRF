@@ -12,6 +12,9 @@ Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.5543&rep=rep1
 Alternatively, Sutton, Charles, and Andrew McCallum. "An introduction to conditional random fields." Foundations and Trends® in Machine Learning 4, no. 4 (2012): 267-373.
 Link of a short version: https://publist.ist.ac.at/attachments/0000/0292/crf-tutorial.pdf
 
+For readers who'd like to know more about parameter optimization. Viterbi algorithm on HMM is a MUST-TO-READ:
+Link: http://www.robots.ox.ac.uk:5000/~vgg/rg/papers/hmm.pdf
+
 
 Step 2. Follow the experiment tutorial. CRF实验.pdf
 The tutorial is offered by @KaiyinZhou.
