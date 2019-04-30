@@ -9,6 +9,9 @@ Klinger, Roman, and Katrin Tomanek. Classical probabilistic models and condition
 Link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.5543&rep=rep1&type=pdf
 (The theorem part of CRF is given in the graduate course in HZAU, i.e., "Bio text mining and knowledge discovery", in every Spring.)
 
+Alternatively, Sutton, Charles, and Andrew McCallum. "An introduction to conditional random fields." Foundations and Trends® in Machine Learning 4, no. 4 (2012): 267-373.
+Link of a short version: https://publist.ist.ac.at/attachments/0000/0292/crf-tutorial.pdf
+
 
 Step 2. Follow the experiment tutorial. CRF实验.pdf
 The tutorial is offered by @KaiyinZhou.
