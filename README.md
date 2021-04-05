@@ -27,7 +27,7 @@ Patterns link:
 https://wapiti.limsi.fr/manual.html#patterns
 
 Aknowledgement:
-Thank Pierre Zweigenbaum from LIMSI offered tutorial of WAPITI, a CRF tool, in 2017 to HZAU-BioNLP lab here.
+Thank Pierre Zweigenbaum from LIMSI offered tutorial of WAPITI, a CRF tool, in 2017 to HZAU-BioNLP lab here. Thank all of the audiences in BioNLP-KD courese (since 2016) and NLP course (Since 2020) who join the algorithmic discussions.  
 
 
 
